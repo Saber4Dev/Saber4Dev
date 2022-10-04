@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Saber El Adraoui
 - 👀 I’m interested in to a highly skilled front-end developer 
-- 🌱 I’m currently learning React and Vuejs
+- 🌱 I’m currently learning React and UI / UX Design
 - 📫 How to reach me by email saber.adraoui@gmail.com 
 
 <!---
